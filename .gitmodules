@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "cylcop"]
 	path = cylcop
-	url = https://github.com/cran/cylcop
+	url = https://github.com/floo66/cylcop
